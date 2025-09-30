@@ -107,11 +107,11 @@ interface_vpc_endpoint_type = "Interface"
 private_dns_enabled        = true
 
 node_group_tags = {
-  Name = "private-eks-cluster-yashu-managed-node"
+  Name = "private-eks-cluster-bhavana-managed-node"
 }
 
 tags = {
-  Name = "private-eks-cluster-yashu"
+  Name = "private-eks-cluster-bhavana"
 }
 #bastion 
 #cluster_name       = "private-eks-cluster"
